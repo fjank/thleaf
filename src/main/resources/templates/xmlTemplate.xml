@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root xmlns:th="http://www.thymeleaf.org">
+    <containsCharsThatShouldBeEscaped th:text="${str}" />
+</root>
